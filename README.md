@@ -4,9 +4,13 @@
 # FMenu (Versão Melhorada)
 > Versão original dessa include: https://github.com/dinhkhoi2298/menu
 
+# Creditos
+- `dinhkhoi2298` por ter criado a include
+- `tommyst0` (tommy_stardust) modificação na include
+
 # Includes necessarias
-textdraw-streamer (https://github.com/nexquery/samp-textdraw-streamer)
-y_hooks (https://github.com/pawn-lang/YSI-Includes)
+- textdraw-streamer (https://github.com/nexquery/samp-textdraw-streamer) </br>
+- y_hooks (https://github.com/pawn-lang/YSI-Includes)
 
 # Modificações
 > + Função de gancho das keys pressionadas `KeyMenu:...(playerid, index)`
