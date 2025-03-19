@@ -3,6 +3,7 @@
 
 # FMenu (Versão Melhorada)
 > Versão original dessa include: https://github.com/dinhkhoi2298/menu
+> Meu Topico no PortalSamp: https://portalsamp.com/showthread.php?tid=4986
 
 # Creditos
 - `dinhkhoi2298` por ter criado a include
