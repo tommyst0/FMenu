@@ -40,7 +40,7 @@ CMD:teste(playerid)
 	Menu_Add(playerid, "Corote","~g~R$350");
 	Menu_Add(playerid, "Ypioca","~g~R$500");
 	Menu_Add(playerid, "Sprunk","~g~R$50");
-	Menu_SetColor(playerid, 0xFFFFFFFF);
+	Menu_SetColor(playerid, 0x1b90fcFF);
 	Menu_Show(playerid, MENU_COMPRAS_ALHAMBA, "Alhamba", "Menu de Compras");
     return 1;
 }
@@ -101,3 +101,7 @@ Menu:MENU_COMPRAS_ALHAMBA(playerid, response, listitem)
 
 
 ```
+
+![exemplo01](https://github.com/tommyst0/FMenu/blob/main/imgs/example01.png)
+![exemplo02](https://github.com/tommyst0/FMenu/blob/main/imgs/example02.png)
+![exemplo03](https://github.com/tommyst0/FMenu/blob/main/imgs/example03.png)
