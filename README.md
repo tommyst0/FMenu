@@ -1,20 +1,20 @@
 > [!IMPORTANT]  
-> USE "menu.inc", O Menu com ALS Method ainda não foi concluido.
+> USE "menu.inc", O Menu com ALS Method ainda nÃ£o foi concluido.
 
-# FMenu (Versão Melhorada)
-> Versão original dessa include: https://github.com/dinhkhoi2298/menu
+# FMenu (VersÃ£o Melhorada)
+> VersÃ£o original dessa include: https://github.com/dinhkhoi2298/menu
 
-# Modificações
-> + Função de gancho das keys pressionadas `KeyMenu:...(playerid, index)`
-> + Função OnMenuResponse foi substituida pelo macro `Menu:...(playerid, response, listitem)`
-> + O Sistema agora é em base de strings não em menuid
+# ModificaÃ§Ãµes
+> + FunÃ§Ã£o de gancho das keys pressionadas `KeyMenu:...(playerid, index)`
+> + FunÃ§Ã£o OnMenuResponse foi substituida pelo macro `Menu:...(playerid, response, listitem)`
+> + O Sistema agora Ã© em base de strings nÃ£o em menuid
 > + Adicionado a possibilidade de colocar sub-item (do lado direito do menu)
 > + Adicionado suporte a plataforma Android
-> + Melhor organização da Include
-> + Adicionado a Documentação total da include
+> + Melhor organizaÃ§Ã£o da Include
+> + Adicionado a DocumentaÃ§Ã£o total da include
 > + Foi adicionado textdraw-streamer para o melhor manuseio da include
 
-## Todas as Funções
+## Todas as FunÃ§Ãµes
 ```bash
 Menu_Add(playerid, const item[64], const item2[64] = "_")
 Menu_Show(playerid, function, title, header)
@@ -32,7 +32,7 @@ HideMiniMenu(playerid)
 ```
 
 ## Uso
-```bash
+```pawn
 CMD:teste(playerid)
 {
     if(Menu_Showing(playerid))return 1;
