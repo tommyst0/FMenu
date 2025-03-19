@@ -4,6 +4,10 @@
 # FMenu (Versão Melhorada)
 > Versão original dessa include: https://github.com/dinhkhoi2298/menu
 
+# Includes necessarias
+textdraw-streamer (https://github.com/nexquery/samp-textdraw-streamer)
+y_hooks (https://github.com/pawn-lang/YSI-Includes)
+
 # Modificações
 > + Função de gancho das keys pressionadas `KeyMenu:...(playerid, index)`
 > + Função OnMenuResponse foi substituida pelo macro `Menu:...(playerid, response, listitem)`
