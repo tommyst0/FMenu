@@ -9,7 +9,6 @@
 - `dinhkhoi2298` por ter criado a include
 - `tommyst0` (tommy_stardust) modificação na include
 
-
 # Includes necessarias
 - textdraw-streamer (https://github.com/nexquery/samp-textdraw-streamer) </br>
 - y_hooks (https://github.com/pawn-lang/YSI-Includes)
